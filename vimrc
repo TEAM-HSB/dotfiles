@@ -30,13 +30,6 @@ set backspace=indent,eol,start
 " line number
 set number
 
-" ruler
-set ruler
-
-" cursorline
-set cursorline
-set cursorcolumn
-
 " wrap, margin
 set nowrap
 
