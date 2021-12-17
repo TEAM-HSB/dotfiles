@@ -21,7 +21,6 @@ autocmd Filetype javascript,html,css setlocal ts=2 sw=2 sts=2
 
 " indent
 set autoindent
-set cindent
 set smartindent
 
 " backspace
